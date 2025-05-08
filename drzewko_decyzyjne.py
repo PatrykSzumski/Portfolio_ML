@@ -1,4 +1,3 @@
-# Importowanie niezbędnych bibliotek
 from sklearn.datasets import make_classification  # do generowania przykładowych danych
 from sklearn.ensemble import RandomForestClassifier  # do używania klasyfikatora lasu losowego
 from sklearn.model_selection import train_test_split  # do podziału danych na zestawy treningowe i testowe
